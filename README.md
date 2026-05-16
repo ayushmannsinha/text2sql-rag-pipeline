@@ -6,6 +6,18 @@ The project explores Text-to-SQL generation using Retrieval-Augmented Generation
 
 I am keeping this fork as a temporary portfolio reference while independently rebuilding the system end-to-end to strengthen my understanding of the full architecture and implementation.
 
+## My Current Focus
+
+I am independently rebuilding this pipeline with a focus on:
+
+- Schema extraction from relational databases
+- Retrieval-ready schema formatting
+- FAISS-based retrieval for schema and example grounding
+- Prompt construction for LLM-based SQL generation
+- SQL validation and repair loops
+- Execution accuracy evaluation
+- FastAPI endpoints for query generation and execution
+
 # Text2SQL — Group 28 (CSE 573)
 
 A natural language to SQL system with a Next.js dashboard frontend and a Python ML pipeline backend using RAG, schema linking, and back-translation validation.
