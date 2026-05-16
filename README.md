@@ -1,3 +1,11 @@
+## Portfolio Note
+
+This repository is a fork of an academic group project completed for CSE 573: Semantic Web Mining at Arizona State University.
+
+The project explores Text-to-SQL generation using Retrieval-Augmented Generation, FAISS-based retrieval, schema linking, SQL validation/repair, semantic validation, and benchmark evaluation on Spider and CoSQL.
+
+I am keeping this fork as a temporary portfolio reference while independently rebuilding the system end-to-end to strengthen my understanding of the full architecture and implementation.
+
 # Text2SQL — Group 28 (CSE 573)
 
 A natural language to SQL system with a Next.js dashboard frontend and a Python ML pipeline backend using RAG, schema linking, and back-translation validation.
